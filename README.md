@@ -39,22 +39,6 @@
 
 ---
 
-
----
-
-## 📊 GitHub Stats
-
-![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhi782&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi782&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nidhi782&theme=tokyonight&hide_border=true)
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Nidhi782/Nidhi782/blob/output/github-contribution-grid-snake.svg)
