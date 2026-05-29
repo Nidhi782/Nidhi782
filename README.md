@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&width=435&lines=Hey%2C+I'm+Nidhi+Kumari+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-🎓 B.Tech CSE @ IILM University, Greater Noida (2028) ·
-💻 Full-Stack Developer who loves turning ideas into real, deployed products
-🚀 Built & shipped: **CollegeMitra** (college discovery for Indian students) & **StayEase** (hostel management)
-🧩  DSA in C++ 
-🌱 Currently exploring: system design, open source, and better UI/UX
+🎓 B.Tech CSE @ IILM University, Greater Noida (2028)<br>
+💻 Full-Stack Developer who loves turning ideas into real, deployed products<br>
+🚀 Built & shipped: **CollegeMitra** (college discovery for Indian students) & **StayEase** (hostel management)<br>
+🧩 DSA in C++<br>
+🌱 Currently exploring: system design, open source, and better UI/UX<br>
 📬 Open to **internships & collaborations** · she/her
 
 ---
@@ -13,7 +13,6 @@
 ## 🏆 Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Nidhi782&theme=tokyonight&no-frame=true&margin-w=4)
-
 ---
 
 ## 🛠️ Tech Stack
