@@ -39,11 +39,6 @@
 
 ---
 
-## 🧩 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Nunito&ext=contest)
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/nidhi-kumari-818118319)
