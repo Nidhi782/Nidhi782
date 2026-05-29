@@ -10,9 +10,10 @@
 
 ---
 
-## 🏆 Trophies
+## 📈 Activity Graph
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nidhi782&theme=tokyonight&no-frame=true&margin-w=4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhi782&theme=tokyo-night&hide_border=true)
+
 ---
 
 ## 🛠️ Tech Stack
