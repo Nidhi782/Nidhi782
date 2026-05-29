@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&width=500&lines=Hey%2C+I'm+Nidhi+Kumari+%F0%9F%91%8B;Full-Stack+Developer;Building+real+products+that+ship+%F0%9F%9A%80;Open+to+Internships!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&width=435&lines=Hey%2C+I'm+Nidhi+Kumari+%F0%9F%91%8B✨)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Nidhi782&color=blueviolet&style=flat)
 
 🎓 B.Tech CSE @ IILM University, Greater Noida (2028) ·
 💻 Full-Stack Developer who loves turning ideas into real, deployed products
@@ -13,7 +12,7 @@
 
 ## 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nidhi782&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nidhi782&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
@@ -53,12 +52,6 @@
 ## 🔥 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nidhi782&theme=tokyonight&hide_border=true)
-
----
-
-## 🧩 LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/https://leetcode.com/u/nidhi_445/?theme=dark&font=Nunito&ext=contest)
 
 ---
 
