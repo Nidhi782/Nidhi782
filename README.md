@@ -45,4 +45,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/nidhi-kumari-818118319)
 [![Gmail](https://img.shields.io/badge/-nidhikri445@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:nidhikri445@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Nidhi782-181717?logo=github&logoColor=white&style=flat)](https://github.com/Nidhi782)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/your-leetcode-username)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/u/nidhi_445/)
